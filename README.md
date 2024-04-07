@@ -5,3 +5,4 @@ This is a repository for my Python projects.
   * Finance Calculator
   * Task Manager
   * Inventory
+  * Library Database
