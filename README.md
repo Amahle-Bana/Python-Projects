@@ -6,3 +6,4 @@ This is a repository for my Python projects.
   * Task Manager
   * Inventory
   * Library Database
+  * Movie Collection
